@@ -48,7 +48,7 @@ function ready() {
   const seed = rand(256);
   term
     .echo(() => rainbow(render("che's website"), seed))
-    .echo("<white>i'll get this done some time soon, i swearr</white>\n")
+    .echo("<white>i'll get this done some time soon, i swear</white>\n")
     .resume();
 }
 
